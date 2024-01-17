@@ -1,0 +1,78 @@
+/* Products.css */
+
+/* Card Styles */
+.j17 {
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
+  
+  .j17:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Image Styles */
+  .dispoarticle {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .productimage {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  /* Text Styles */
+  .forms {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Button Styles */
+  .btnproduct {
+    margin-top: 10px;
+    background-color: #f8f9fa;
+    color: #212529;
+    border: 1px solid #ced4da;
+  }
+  
+  .plusprdct {
+    color: #007bff;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  /* Additional Styles */
+  .button5 {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .button5 img {
+    width: 20px;
+    margin-left: 5px;
+  }
+  
+  /* Delete Button Styles */
+  .btn-danger {
+    margin-top: 10px;
+    background-color: #dc3545;
+    border: none;
+  }
+  
+  /* Cart Image Styles */
+  .cart {
+    width: 20px;
+    margin-left: 5px;
+  }
+  

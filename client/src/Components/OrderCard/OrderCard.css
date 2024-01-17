@@ -1,0 +1,36 @@
+
+
+.messageCards {
+    width: 300px; /* Set your desired width */
+    margin: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ccc; /* Set your desired border color */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .forms {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Customize the Button styles */
+  .danger {
+    background-color: #dc3545; /* Set your desired button background color */
+    color: #fff; /* Set your desired button text color */
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333; /* Set your desired button hover background color */
+  }
+  
+  /* Add more styling as needed */
+  

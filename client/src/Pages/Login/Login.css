@@ -1,0 +1,58 @@
+/* Add this styling to your component */
+.body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(180deg, #7587fa 0%, #e0e0e0 100%);
+    /* Adjust the background colors as needed */
+  }
+.Login {
+    text-align: center;
+    color: #333; /* Set your desired text color */
+  }
+  
+  .cadre2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  
+  .cadre {
+    width: 400px; /* Adjust the width as needed */
+    padding: 20px;
+    border: 1px solid #ccc; /* Set your desired border color */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  }
+  
+  .forms {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .eye {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  
+  .bouton {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #007bff; /* Set your desired button background color */
+    color: #fff; /* Set your desired button text color */
+    border: none;
+  }
+  
+  .boutontext {
+    cursor: pointer;
+    color: #c8ff00; /* Set your desired link color */
+  }
+  
+  .text-muted {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  /* Add more styling as needed */
+  

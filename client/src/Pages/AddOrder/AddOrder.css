@@ -1,0 +1,92 @@
+/* AddOrder.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #3494e6, #ec6ead);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container {
+    flex-grow: 1;
+  }
+  
+  /* Overall Layout */
+  h1 {
+    text-align: center;
+    color: white;
+    margin: 20px 0;
+  }
+  
+  .commande-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .orderCard {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Image Styles */
+  .orderCard img {
+    width: 30%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form Input Styles */
+  .forms {
+    font-weight: bold;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .input-order {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Button Styles */
+  .btn66 {
+    margin-top: 20px;
+  }
+  
+  .button5 {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .button5 img {
+    width: 20px;
+    margin-left: 5px;
+  }
+  
+  /* Cart Image Styles */
+  .cart {
+    width: 20px;
+    margin-left: 5px;
+  }
+  

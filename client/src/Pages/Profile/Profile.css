@@ -1,0 +1,41 @@
+/* Add this styling to your component */
+
+
+  
+  .Profile {
+    text-align: center;
+    color: #fff; /* Set your desired text color */
+    margin-top: 50px; /* Adjust the margin-top as needed */
+  }
+  
+  .profileCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  
+  /* Customize the Card styles */
+  .card {
+    width: 20rem;
+    background-color: rgba(255, 255, 255, 0.7); /* Set your desired card background color and opacity */
+    padding: 20px;
+    border: 1px solid #ccc; /* Set your desired border color */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a box shadow */
+  }
+  
+  .forms {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .editico {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  
+  /* Add more styling as needed */
+  
